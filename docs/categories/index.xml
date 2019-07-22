@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on xyslion的笔记屋</title>
-    <link>https://wucl202000.github.io/categories/</link>
-    <description>Recent content in Categories on xyslion的笔记屋</description>
+    <title>Categories on 剑髯</title>
+    <link>https://wucl202000.github.io/my-site/categories/</link>
+    <description>Recent content in Categories on 剑髯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="https://wucl202000.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wucl202000.github.io/my-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
