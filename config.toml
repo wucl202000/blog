@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://wucl202000.github.io/my-site/"
 languageCode = "en-us"
 title = "剑髯"
 theme = "ananke"
