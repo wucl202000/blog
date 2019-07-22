@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/first-post/</loc>
+    <loc>https://wucl202000.github.io/first-post/</loc>
     <lastmod>2019-07-22T11:21:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://wucl202000.github.io/</loc>
     <lastmod>2019-07-22T11:21:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>https://wucl202000.github.io/posts/first-post/</loc>
     <lastmod>2019-07-22T11:20:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://wucl202000.github.io/posts/</loc>
     <lastmod>2019-07-22T11:20:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://wucl202000.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://wucl202000.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
