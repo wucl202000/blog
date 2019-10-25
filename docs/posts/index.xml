@@ -6,27 +6,18 @@
     <description>Recent content in Posts on 剑髯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Oct 2019 18:01:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 11:20:17 +0800</lastBuildDate>
     
 	<atom:link href="https://wucl202000.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>https://wucl202000.github.io/blog/posts/test/</link>
-      <pubDate>Thu, 17 Oct 2019 18:01:08 +0800</pubDate>
-      
-      <guid>https://wucl202000.github.io/blog/posts/test/</guid>
-      <description>Just for test.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
+      <title>Hello World</title>
       <link>https://wucl202000.github.io/blog/posts/first-post/</link>
       <pubDate>Mon, 22 Jul 2019 11:20:17 +0800</pubDate>
       
       <guid>https://wucl202000.github.io/blog/posts/first-post/</guid>
-      <description>Hello, World !!! I am first post.</description>
+      <description>Hello, World !!!</description>
     </item>
     
   </channel>
